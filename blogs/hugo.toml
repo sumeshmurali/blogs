@@ -2,6 +2,8 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Sumesh Murali'
 theme = 'hugo-bearblog'
+relativeURLs = true
+canonifyURLs = true
 [params]
     hideMadeWithLine = true
     subtitle = 'Reference, Tutorials, and Explanations'
