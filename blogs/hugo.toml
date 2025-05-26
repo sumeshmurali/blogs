@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Sumesh Murali'
+theme = 'hugo-bearblog'
+[params]
+    hideMadeWithLine = true
+    subtitle = 'Reference, Tutorials, and Explanations'

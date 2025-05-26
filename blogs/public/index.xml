@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello on Sumesh Murali</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Hello on Sumesh Murali</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 May 2025 19:49:33 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Who Am I</title>
+      <link>http://localhost:1313/posts/who-am-i/</link>
+      <pubDate>Mon, 26 May 2025 19:49:33 +0530</pubDate>
+      <guid>http://localhost:1313/posts/who-am-i/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a coder (unlike rest of us) with interests in Coffee, Linux and Books.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I write code for a living&lt;/li&gt;&#xA;&lt;li&gt;I think about life a lot and likely going through existential crisis&lt;/li&gt;&#xA;&lt;li&gt;I want to make a small contribution to make the world a better place (like Linus - the linux guy)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Ok Ok, I&amp;rsquo;m still working on it, please come back later&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
