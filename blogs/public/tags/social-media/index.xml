@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Media on Sumesh Murali</title>
+    <link>http://localhost:1313/tags/social-media/</link>
+    <description>Recent content in Social Media on Sumesh Murali</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jun 2025 12:11:46 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Built a Boring Website</title>
+      <link>http://localhost:1313/posts/i-built-a-boring-website/</link>
+      <pubDate>Sun, 22 Jun 2025 12:11:46 +0530</pubDate>
+      <guid>http://localhost:1313/posts/i-built-a-boring-website/</guid>
+      <description>&lt;h1 id=&#34;i-built-a-boring-website&#34;&gt;I Built a Boring Website&lt;/h1&gt;&#xA;&lt;p&gt;I built &lt;a href=&#34;https://quietfeeds.com/&#34;&gt;QuietFeeds&lt;/a&gt;, and it&amp;rsquo;s boring. It aggregates links from various RSS feeds and displays them in a somewhat likable way. I knew it would be boring, yet I built it.&lt;/p&gt;&#xA;&lt;p&gt;Why would anyone invest their time into building such an unremarkable website? That’s what this post is about — my justification for building something intentionally boring.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-i-built-it&#34;&gt;Why I Built It&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;TLDR&lt;/strong&gt; : I quit social media, needed a calm way to keep up with topics I genuinely care about, and found myself manually checking Hacker News and other sources. So I built &lt;a href=&#34;https://quietfeeds.com/&#34;&gt;QuietFeeds&lt;/a&gt; — a simple site that pulls relevant articles from my chosen sources and shows me only what I care about.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

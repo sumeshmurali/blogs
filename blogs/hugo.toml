@@ -4,6 +4,7 @@ title = 'Sumesh Murali'
 theme = 'hugo-bearblog'
 relativeURLs = true
 canonifyURLs = true
+enableRobotsTXT = true
 [params]
     hideMadeWithLine = true
     subtitle = 'Reference, Tutorials, and Explanations'
